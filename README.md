@@ -30,4 +30,11 @@ update db.json in above link and deploy the github repo cloned from above url an
 
 This is like hosting our local json server file to cloud post development.
 
+https://top-jobs-api.vercel.app/JobLists
+
+https://top-jobs-api.vercel.app/messages
+
+https://top-jobs-api.vercel.app/contactData
+
+https://top-jobs-api.vercel.app/applications
 
